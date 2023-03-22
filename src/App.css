@@ -1,0 +1,35 @@
+
+.additem{
+  border-radius: 50px;
+}
+
+.additem .form-control,.additem .form-select{
+  width: 200px;
+
+}
+
+.btn{
+  width: 130px;
+}
+
+.tablearea{
+  height: 450px;
+  overflow: scroll;
+}
+thead{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+th{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+tr{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+td{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
